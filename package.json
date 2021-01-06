@@ -1,0 +1,21 @@
+{
+  "name": "practice-testcafe",
+  "version": "1.0.0",
+  "description": "End to end with Testcafe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./tests/practice2.js"
+  },
+  "keywords": [
+    "TestCafe",
+    "Testing",
+    "Automation"
+  ],
+  "author": "rahul aledia",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "prettier": "^2.2.1",
+    "testcafe": "^1.10.1"
+  }
+}
