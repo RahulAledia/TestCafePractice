@@ -1,5 +1,5 @@
-import { Selector } from 'testcafe';
-import { Role } from 'testcafe';
+import { Selector,Role } from 'testcafe';
+//import { Role } from 'testcafe';
 
 export const standardUser = Role(
 	'https://www.saucedemo.com/index.html',
